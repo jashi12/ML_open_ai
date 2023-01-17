@@ -19,7 +19,7 @@ The files that were tested are as follows:
     "/ProgramFiles/Adobe/AcrobatReaderDC/Reader/AcroRd32.exe",
     "/Users/jashi/Documents/executables.zip" -> Generally suspicious .zip file
  
-Our model was able to succesfully label all 6 file paths. Additionally testing with larger datasets to come in the future.
+Our model was able to succesfully label all 6 file paths. Additional testing with larger datasets to come in the future.
 
 ## Built With
 
