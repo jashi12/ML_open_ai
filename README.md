@@ -2,7 +2,7 @@
 
 This repository contains code for classifying files as suspicious or not using the OpenAI GPT model.
 
-OpenAI API credentials can be gotten from [here](https://beta.openai.com/signup/). This is a proof of concept for a scalable solution to investigating MFT logs of compromised endpoints/servers. 
+OpenAI API credentials can be created [here](https://beta.openai.com/signup/). This is a proof of concept for a scalable solution to investigating MFT logs of compromised endpoints/servers. 
 
 ### Data
 
